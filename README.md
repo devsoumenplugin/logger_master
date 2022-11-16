@@ -1,6 +1,6 @@
-# Bera Logger
+# Logger master
 
-Bera Logger is simple php logger which you can use in your php projects to log information.
+our Logger is simple php logger which you can use in your php projects to log information.
 
 ## Installation
 
